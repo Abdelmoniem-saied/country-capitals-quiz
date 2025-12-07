@@ -65,5 +65,27 @@ Reads `country_data.txt` and creates a dictionary like:
     ...
 }
 
+### 3️⃣ Generating Quizzes
+
+For each student:
+
+- Creates a quiz file  
+- Shuffles the list of countries  
+- Generates 4-option multiple-choice answers  
+
+---
+
+### 4️⃣ Generating Answer Keys
+
+Creates a separate file containing:
+
+```text
+1. B
+2. D
+3. A
+...
+
+
+
 
 
